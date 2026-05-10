@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import myself from '../../images/Myself.jpg'
-
+// about
 const About = () => {
     return (
         <div className='about'>
