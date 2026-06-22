@@ -1,6 +1,6 @@
 import React from 'react';
 import { Accordion } from 'react-bootstrap';
-
+// blogs
 const Blogs = () => {
     return (
         <div className='container my-5'>
