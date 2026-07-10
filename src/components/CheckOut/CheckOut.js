@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Button, Col, Form, InputGroup, Row } from 'react-bootstrap';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
+//check out
 const CheckOut = () => {
 
     const [validated, setValidated] = useState(false);
